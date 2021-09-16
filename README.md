@@ -62,7 +62,8 @@ Apagar dados em tabelas com DELETE
 <ul>
   <li> Git Clone no Projeto</li>
   <li> Npm Install</li>
-  <li> Npm start</li>
+  <li> Inicie o MySql</li>
+  <li> Execute Cada Arquivo</li>
  </ul>
 
 <h2>Membros do Projeto</h2>
